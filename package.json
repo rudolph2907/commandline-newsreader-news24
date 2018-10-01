@@ -1,0 +1,16 @@
+{
+  "name": "commandline-newsreader-news24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudolph Koegelenberg <rudolph.koegelenberg@gmail.com> (http://www.rudolphk.co.za)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
